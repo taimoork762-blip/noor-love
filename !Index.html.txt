@@ -1,0 +1,111 @@
+<!Index.html>
+<html>
+<head>
+    <title>Noor Ul Tuba ❤️</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to bottom right, #ffc0cb, #ff69b4);
+            text-align: center;
+            color: white;
+        }
+
+        h1 {
+            font-family: 'Pacifico', cursive;
+            font-size: 3rem;
+            margin-top: 40px;
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            margin-bottom: 30px;
+        }
+
+        .message {
+            width: 80%;
+            margin: auto;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            background: rgba(255,255,255,0.2);
+            padding: 20px;
+            border-radius: 20px;
+            backdrop-filter: blur(5px);
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            padding: 30px;
+        }
+
+        .gallery img {
+            width: 100%;
+            border-radius: 20px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+            transition: transform 0.4s;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+
+        .footer {
+            margin: 40px 0;
+            font-size: 1rem;
+        }
+
+        .kitty {
+            font-size: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>💖 Noor Ul Tuba 💖</h1>
+<div class="subtitle">From Your Bom Bom 🐱💘</div>
+
+<div class="message">
+    Noor, <br><br>
+    Since 11 February 2025, my world has been brighter, softer, and full of pink magic — just like you. 🌸  
+    Every moment with you feels like a beautiful dream I never want to wake up from.  
+
+    Your smile is my favorite view, your voice is my favorite sound, and your love is my favorite place.  
+
+    If love had a color, it would be the shade of pink that reminds me of you.  
+    You are my peace, my happiness, my Hello Kitty princess forever. 🎀  
+
+    I love you more than words can ever explain.  
+    Forever yours,  
+    Bom Bom 💕
+</div>
+
+<h2>Our Memories 📸</h2>
+
+<div class="gallery">
+    <img src="53CE8F82-11F7-4405-8DB8-5E1E6A212465.jpeg">
+
+</div>
+
+<h2>Our Song 🎵</h2>
+
+<iframe width="80%" height="315" 
+src="https://www.youtube.com/embed/U2SVCCENLjE" 
+title="YouTube video player" 
+frameborder="0" 
+allow="autoplay; encrypted-media" 
+allowfullscreen>
+</iframe>
+
+<div class="footer">
+    Made with love by Bom Bom 💗 | 11 Feb 2025 – Forever ♾️
+</div>
+
+</body>
+</html>
